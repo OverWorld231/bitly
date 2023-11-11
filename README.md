@@ -8,7 +8,7 @@
 
 Пример содержания файла .env:
 
-BITLY_TOKEN=21ecde8d68b8e54395928e7e4199dd7e27f9e78
+`BITLY_TOKEN=21ecde8d68b8e54395928e7e4199dd7e27f9e78`
 
 ## Установка
 
